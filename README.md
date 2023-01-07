@@ -4,7 +4,9 @@ Hi 👋 My name is Chawin (Ham) Pathompornvivat
 Full Stack Software Engineer
 ----------------------------
 
-I am a full-stack software engineer with diverse professional background in the realm of tax and accounting to client-oriented hospitality industry. I want to be working on really hard things that matter with people smarter than me. In my day-to-day, I’m the type of engineer who’s passionate and an empathetic teammate, an enthusiastic learner, and an active contributor who takes ownership and adores collaboration. Aside from being a lifelong learner, I love researching modern and abstract arts and reading about the latest tech innovation. In my spare time, I savor PC gaming (currently Overwatch and World of Warcraft), going to concerts, learning, and following the Seattle Seahawks as a 12th man.
+I am a full-stack software engineer with diverse professional background in the realm of tax and accounting to client-oriented hospitality industry. I want to be working on really hard things that matter with people smarter than me. In my day-to-day, I’m the type of engineer who’s passionate and an empathetic teammate, an enthusiastic learner, and an active contributor who takes ownership and adores collaboration. 
+
+Aside from being a lifelong learner, I love researching modern and abstract arts and reading about the latest tech innovation. In my spare time, I savor PC gaming (currently Overwatch and World of Warcraft), going to concerts, learning, and following the Seattle Seahawks as a 12th man.
 
 * 🌍  I'm based in Seattle
 * ✉️  You can contact me at [p.chawin40@gmail.com](mailto:p.chawin40@gmail.com)
