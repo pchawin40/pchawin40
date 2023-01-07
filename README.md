@@ -1,4 +1,3 @@
-# pchawin40
 Hi 👋 My name is Chawin (Ham) Pathompornvivat
 =============================================
 
