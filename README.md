@@ -11,10 +11,6 @@ Aside from being a lifelong learner, I love researching modern and abstract arts
 * 🌍  I'm based in Seattle
 * ✉️  You can contact me at [p.chawin40@gmail.com](mailto:p.chawin40@gmail.com)
 
-### Badges
-
-<a href="http://www.github.com/pchawin40"><img src="https://github-readme-stats.vercel.app/api?username=pchawin40&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pchawin40's GitHub stats" /></a>
-
 ### Skills
 
 
